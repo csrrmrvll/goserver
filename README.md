@@ -1,0 +1,2 @@
+# goserver
+Goserver from bootdotdev
